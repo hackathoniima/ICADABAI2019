@@ -16,3 +16,10 @@ dataset.json - these are the ~26k text, which need to be annotated by the partic
 ### Additional Data
 
 In the directory additional_data, we're providing more data if you wish to use them for training a neural model etc. Please note that your submissions should only contain the 30000 sentences and the imputed values.
+
+
+### Questions?
+
+Please join the below mailing group, to ask questions, and discuss with organisers and other contestants. 
+
+https://groups.google.com/forum/#!forum/iima-hackathon-2019
