@@ -1,0 +1,44 @@
+{
+  "team1": [
+    {
+      "text": "Let me explain to you why I believe this : For years, SunTrust advertised and promoted in big letters their Mastercard Classic debit card.",
+      "entity": "Mastercard Classic",
+      "types": "/interest/product"
+    },
+    {
+      "text": "With that card, an account holder could earn 7 mile for every {$1.00} spent ( for debit and credit card transactions ).",
+      "entity": "7",
+      "types": "/other/organization"
+    },
+    {
+      "text": "Over the past 2 months, SunTrust must have reviewed their debit card portfolio and what they did as a result of their review is shocking : They closed all account holders who had earned above average number of miles regardless of the types of products they purchased, regardless of the length of their relationship with SunTrust, and regardless of the amount of money in their checking accounts.",
+      "entity": "2",
+      "types": "/other/number"
+    },
+    {
+      "text": "After banking with Citibank for over 3 years, I discovered this evening that I could not use my debit card despite having a Citibank verified balance of {$900.00}. When I called Citibank, I was informed that the Texas branches had been bought by JP Morgan Chase and as such, they, Citibank, could not allow access to my account.",
+      "entity": "JP Morgan Chase",
+      "types": "/other/organization/company /other/organization"
+    },
+    {
+      "text": "I used to work for the Citibank and they call their customers because a {$1.00} coffee.",
+      "entity": "Citibank",
+      "types": "/other/organization/company /other/organization"
+    },
+    {
+      "text": "After that call she informed me that the bank had a policy of not exchanging travelors cheques with a value of less than {$100.00} U.S.",
+      "entity": "traverlors cheques",
+      "types": "/interest/product"
+    },
+    {
+      "text": "In response, I told this associate that I inquired about returning full tank when I picked it up, and no one told me about this requirement.",
+      "entity": "full tank",
+      "types": "/other"
+    },
+    {
+      "text": "He told me that he checked out my exchange issue, and found that PNC had a policy of not exchanging travelors cheques with a value of less than {$100.00} U.S., and they could not make exceptions to this policy.",
+      "entity": "travelors cheques",
+      "types": "/interest/product"
+    }
+	]
+}
