@@ -88,18 +88,24 @@ def get_annotations(file_name):
         return annotations_map
       
 def get_anonymized_text(text, entity=None):
-    patterns = [entity, r' XXXX XXXX XXXX XXXX', r'XXXX XXXX XXXX', r'XXXX XXXX', r'XXXX', r'XX/XX/XXXX', r'XX/XX/']
+    if entity is None or len(entity) < 1:
+        return text
+    patterns = [r'\b%s\b' % re.escape(entity), r'\bXXXX XXXX XXXX XXXX\b', r'\bXXXX XXXX XXXX\b', r'\bXXXX XXXX\b', r'\bXXXX\b', r'\bXX/XX/XXXX\b', r'\bXX/XX/\b']
     regex_patterns = '|'.join(patterns)
-    mentions = re.findall(regex_patterns, text)
-    if (len(mentions) == 0):
+    try:
+        mentions = re.findall(regex_patterns, text)
+        if (len(mentions) == 0):
+            return text
+        elif (len(mentions) != 1):
+            print("Error! Only one entity mention per sentence should be present.")
+            print(text)
+            print(mentions)
+            return text
+        mention = mentions[0]
+        entity = 'XXXX XXXX'
+        text = text.replace(mention, entity)
+    except:
         return text
-    elif (len(mentions) != 1):
-        print("Error! Only one entity mention per sentence should be present.")
-        print(mentions)
-        return text
-    mention = mentions[0]
-    entity = 'XXXX XXXX'
-    text = text.replace(mention, entity)
 
     return text
 

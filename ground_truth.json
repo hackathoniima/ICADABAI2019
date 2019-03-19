@@ -1,0 +1,504 @@
+{
+    "ground_truth": [
+        {
+            "text": "It went back and forth like that several times until they finally identified themselves as XXXX XXXX Business Card.",
+            "entity": "Delta Skymiles",
+            "types": "/interest/product"
+        },
+        {
+            "text": "Since filing for mortgage assistance several years ago, my personal credit was wiped out starting with XXXX XXXX as my mortgage holder.",
+            "entity": "Carter-Kirk",
+            "types": "/other/organization"
+        },
+        {
+            "text": "Though the charge was reversed, at that time, it reappeared on my XXXX XXXX statement.",
+            "entity": "June 2012",
+            "types": "/other/datetime/month"
+        },
+        {
+            "text": "I received the promotion in a letter with the offer code XXXX XXXX which was applied while opening the account over the phone with a Citi Representative.",
+            "entity": "7865745",
+            "types": "/other/number"
+        },
+        {
+            "text": "However, every once in a while I get a monthly statement for more than the amount on the contract, but it is not due for some XXXX XXXX to three months later while the current overpayment is still being made automatically every month through my bank.",
+            "entity": "one",
+            "types": "/other/number"
+        },
+        {
+            "text": "I feel like first I was victimized by the XXXX XXXX but even worse now I am being victimized bt the bank I trusted.",
+            "entity": "Citibank",
+            "types": "/other/organization"
+        },
+        {
+            "text": "I naively thought that since we were still within the month of XXXX XXXX, the people of Wells Fargo could at least show some understanding and offer a reasonable solution.",
+            "entity": "August 2018",
+            "types": "/other/datetime/month"
+        },
+        {
+            "text": "Both accounts which I proved to be paid in full still appear in my credit report with all XXXX XXXX agencies.",
+            "entity": "4",
+            "types": "/other/number"
+        },
+        {
+            "text": "In XXXX XXXX2016, I was induced to open a Citibank CitiGold Checking account with a bonus offer.",
+            "entity": "January 6, ",
+            "types": "/other/datetime"
+        },
+        {
+            "text": "XXXX XXXX honored the check without positively identifying if the person was me.",
+            "entity": "Wells Fargo bank",
+            "types": "/other/organization /other/organization/company"
+        },
+        {
+            "text": "What makes me feel terrible is that my Daughter ( XXXX XXXX ) and is buying a House has this on her Credit Report and has cost her also while she had absolutely nothing to do with the transaction.",
+            "entity": "Meenakshi Gupta",
+            "types": "/contact/name"
+        },
+        {
+            "text": "XXXX XXXX sends out offers to consumers to get customers and need to abide by the rules and honor their offers.",
+            "entity": "Reliance Jio",
+            "types": "/other/organization"
+        },
+        {
+            "text": "I began the process of closing out the IRA and collecting my proceeds in XXXX XXXX 2017.",
+            "entity": "May",
+            "types": "/other/datetime/month /other/datetime"
+        },
+        {
+            "text": "I discovered unauthorized/fraudulent withdrawals from my personal accounts in the amount of {$36000.00}, which began in XXXX XXXX.",
+            "entity": "March 2009",
+            "types": "/other/datetime/month /other/datetime"
+        },
+        {
+            "text": "Since it has only adjusted the XXXX XXXX bonus points that were awarded to me and its representatives are unable to specifically point out which transaction/s was not qualified, I believe American Express has recognized that spending as legitimate.",
+            "entity": "400",
+            "types": "/other/number"
+        },
+        {
+            "text": "My XXXX XXXX statement arrived and upon review I had noticed charges that I did not make.",
+            "entity": "October 2015",
+            "types": "/other/datetime/month"
+        },
+        {
+            "text": "The next time we called I had to explain everything and a representative informed me that he would get a hold of the individual that was working on the problem and have her call me within XXXX XXXX hours, again no one called.",
+            "entity": "24",
+            "types": "/other/number"
+        },
+        {
+            "text": "I was close to my hotel so parked the vehicle and called/emailed XXXX XXXX to get a replacement as I was scared to drive the vehicle as I felt it was unsafe.",
+            "entity": "Zoomcar",
+            "types": "/other/organization /other/organization/company"
+        },
+        {
+            "text": "Also their is no any record of that check deposit on XXXX XXXX when that whole thing happen only after 6 days they debited it to my account instead of the culprit who is BOA customer whose proof I can submit, Also requesting Bank of America fraud and Risk department to please investigate this case.",
+            "entity": "November 4, 2018",
+            "types": "/other/datetime/date /other/datetime"
+        },
+        {
+            "text": "But I failed to pay the exact amount which is XXXX XXXX due to financial difficulty.",
+            "entity": "{$134.00}",
+            "types": "/other/number"
+        },
+        {
+            "text": "I believe I had a {$50.00} balance due, and wanted to pay $ XXXX XXXX on the charge card account.",
+            "entity": "30",
+            "types": "/other/number"
+        },
+        {
+            "text": "On the fine print part of the XXXX XXXX page the rate says that for this offer the rate is 4 %.",
+            "entity": "Housing Loan",
+            "types": "/interest/product"
+        },
+        {
+            "text": "And to make matter worse, they have a policy of not replacing a XXXX XXXX card within 30 days of updating an address.",
+            "entity": "Advantage Miles",
+            "types": "/interest/product"
+        },
+        {
+            "text": "I have seen on XXXX XXXX and other social media platforms where hundreds of users are complaining of the exact same predicament.",
+            "entity": "twitter",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "The banking associate at my local branch issued me a temp card - which began with the same XXXX XXXX digits as my last replacement - and had the same expiration year.",
+            "entity": "12",
+            "types": "/other/number"
+        },
+        {
+            "text": "There is no clear justification to begin billing low balance fees on a XXXX XXXX or residual interest balance.",
+            "entity": "Master Card",
+            "types": "/interest/product"
+        },
+        {
+            "text": "So all charges showing pending throughout the Holiday week-end would be paid with funds showing in balance of XXXX XXXX.",
+            "entity": "Rishi Desai",
+            "types": "/contact/name"
+        },
+        {
+            "text": "I have the billing notice, received by email XXXX XXXX, 2016, and various correspondence with Citibank and BestBuy.",
+            "entity": "June 11",
+            "types": "/other/datetime/date /other/dateimte"
+        },
+        {
+            "text": "My husband passed away in XXXX XXXX of this year with no assets there is no estate or probate.",
+            "entity": "February 5th",
+            "types": "/other/datime"
+        },
+        {
+            "text": "Now, please keep in mind I just lost my home, my daughter was XXXX XXXX my family member and was really counting on these funds for the holidays.",
+            "entity": "",
+            "types": "/other"
+        },
+        {
+            "text": "At the same time I believe that XXXX XXXX should be forced to change their credit card information storing policies as they violating customers rights.",
+            "entity": "Wells Fargo",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "They billed me for the {$1000.00} balance transfer amount plus the fee of {$10.00} but it was never received by XXXX XXXX.",
+            "entity": "Bank of America",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "I, in turn, had my daughter to return her call yesterday afternoon who was tormented, patronized, and illegally questioned regarding certain discriminatory comments received from XXXX XXXX and the call was recorded.",
+            "entity": "Rakesh Kumar",
+            "types": "/contact/name"
+        },
+        {
+            "text": "The physical branch office where I opened the checking account then also changed the requirement to be XXXX XXXX days.",
+            "entity": "5",
+            "types": "/other/number"
+        },
+        {
+            "text": "I attempted to have this escalated and all I have been told after calling back and speaking to another XXXX XXXX was that no one else was available and it is BEING ADDRESSED.",
+            "entity": "Customer Care representative",
+            "types": "/profession/job_title"
+        },
+        {
+            "text": "As soon as I did I took him directly to the XXXX XXXX Police Department thinking they would arrest him.",
+            "entity": "Bengaluru City",
+            "types": "/location"
+        },
+        {
+            "text": "After seeing what XXXX XXXX did to their clients I personally wanted to ensure they get investigated as well as I contacted them and they could not understand why the teller opened the account.",
+            "entity": "Indian Bank",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "I have a flawless credit history with credit scores in the lower XXXX XXXX range and my history with BOA has been the same.",
+            "entity": "700",
+            "types": "/finance/credit_score /other/number"
+        },
+        {
+            "text": "So I made another payment for XXXX XXXX as I did not want my account to reflect that I did not make my payment.",
+            "entity": "{$300.00}",
+            "types": "/other/number"
+        },
+        {
+            "text": "The manager was able to tell me that I had a balance of $ XXXX XXXX dollars at that time.",
+            "entity": "3450.00",
+            "types": "/other/number"
+        },
+        {
+            "text": "Merchant refused refund and offered my XXXX XXXX % discount on next purchase instead, I refused.",
+            "entity": "75",
+            "types": "/other/number"
+        },
+        {
+            "text": "I called Military Star, sent to the fraud dept. where I was told to call my congressman and I was obligated to pay the outstanding balance of {$6800.00}. If I did not they would garnish my V.A. XXXX XXXX payments.",
+            "entity": "January",
+            "types": "/other/datetime/month /other/datetime"
+        },
+        {
+            "text": "I have bought a product in 36 installments with XXXX XXXX who gave me credit through Synchrony Bank.",
+            "entity": "EMI",
+            "types": "/interest/product"
+        },
+        {
+            "text": "BMO Harris is not authorized to release any funds ofmine to XXXX XXXX ...",
+            "entity": "Hodges, Middleton and Bright",
+            "types": "/other/organization"
+        },
+        {
+            "text": "The situation had escalated to XXXX XXXX levels ( the manager and branch manager ) in the bank, and nothing could be done.",
+            "entity": "manager",
+            "types": "/profession/job_title"
+        },
+        {
+            "text": "I told her that I already did that on XXXX XXXX and the system will not approve any requests for a credit line increase if you have had a change in credit line in the past 6 months which was confirmed with there executive resolutions team.",
+            "entity": "12/07/2017",
+            "types": "/other/datetime/date"
+        },
+        {
+            "text": "XXXX XXXX, I am going to let you know right now that I have been recording this call.",
+            "entity": "Lalitha Kumar",
+            "types": "/contact/name"
+        },
+        {
+            "text": "I have requested several times from Capital One to provide me with documentation showing that I authorized myself to be obligated to pay for the XXXX XXXX credit card or personally guarantee it, They have refused to send me any documentation.",
+            "entity": "Advantage Miles",
+            "types": "/interest/product"
+        },
+        {
+            "text": "I called ( XXXX XXXX ) and was asked why I am waiting until the due date to pay my bill ....",
+            "entity": "080 23871231",
+            "types": "/contact/phonenumber"
+        },
+        {
+            "text": "There was no reason for these adjustments, I believe they stem from a fraudulent charge made to my account in XXXX XXXX of this year.",
+            "entity": "January",
+            "types": "/other/datetime/month"
+        },
+        {
+            "text": "Dear Sir or MadamThis is with regard to XXXX XXXX credit cards that I have with the Bank of America.",
+            "entity": "Delta Skymiles",
+            "types": "/interest/product"
+        },
+        {
+            "text": "I have my checking account and a savings account with SECU located in XXXX XXXX North Carolina.",
+            "entity": "Raleigh",
+            "types": "/location/city"
+        },
+        {
+            "text": "I recently filed a complaint in this matter with the XXXX XXXX but Citi Financial refused to correct its error and the complaint was closed without further investigation.",
+            "entity": "Customer Care Dept",
+            "types": "/other/organization"
+        },
+        {
+            "text": "Since I have already paid XXXX XXXX for their service, I have been emailing and calling back and forth in an attempt to resolve this issue as agreed.",
+            "entity": "Bank of Baroda",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "Apparently, someone deposited fake checks totaling {$1800.00} from XXXX XXXX bank into my account.",
+            "entity": "Chase",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "I said to him {$1600.00} was redeposited into my bank account as XXXX XXXX fowllowed me with my cell phone and cash was passed onto the next service agent.",
+            "entity": "Customer Care rep",
+            "types": "/profession/job_title"
+        },
+        {
+            "text": "I overdrafted my account at the ATM in order to pay a bill but immediately deposited cash back into the ATM in order to bring my account back over XXXX XXXX dollars in positive balance.",
+            "entity": "{$1000.00}",
+            "types": "/other/number"
+        },
+        {
+            "text": "Almost XXXX XXXX months later, I checked my statement and saw that the transaction was posted to my account.",
+            "entity": "9",
+            "types": "/other/number"
+        },
+        {
+            "text": "They suggested I file a claim with XXXX XXXX which is the bank listed on the back of my PayPal debit card.",
+            "entity": "Punbaj National Bank",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "Then XXXX XXXX I suddenly received a billing statement ( I had not received any statements since closing my account ) for a charge of {$1100.00}.",
+            "entity": "yesterday",
+            "types": "/other/datetime/day"
+        },
+        {
+            "text": "There were 3 separate transactions as specified above, where I received confirmation numbers about the funds being received from XXXX XXXX.",
+            "entity": "Ken Plywoods",
+            "types": "/other/organization"
+        },
+        {
+            "text": "In the call on XXXX XXXX, they state that they will re-open the investigation and that I should receive the results in 2-3 business days.",
+            "entity": "August 03, 2018",
+            "types": "/other/datetime/date"
+        },
+        {
+            "text": "I received a statement ( my first ) from Suntrust showing I was again assessed a {$12.00} fee on XXXX XXXX.",
+            "entity": "01/02/2018",
+            "types": "/other/datetime/date"
+        },
+        {
+            "text": "When I realized it was fraudulent charges, I contacted them and they started a claim in XXXX XXXX 2014.",
+            "entity": "September",
+            "types": "/other/datetime"
+        },
+        {
+            "text": "The XXXX XXXX number follow-up never occurred and I had to contact the manager of my local branch.",
+            "entity": "1-800",
+            "types": "/other/number"
+        },
+        {
+            "text": "Two days later on my closing day XXXX XXXX got a hold of me and asked to schedule a time to meet up for closing.",
+            "entity": "Berthold Reinwald",
+            "types": "/contact/name"
+        },
+        {
+            "text": "When I informed Capital One of this information and suggested that if someone was expecting the package since it was a scheduled delivery via XXXX XXXX, perhaps the individual removed the merchandise from my front stoop, Capital One said that could never happened.",
+            "entity": "DHL",
+            "types": "/other/organization/company"
+        },
+        {
+            "text": "Then US Bank charged me XXXX XXXX for that paper statement, making the account negative.",
+            "entity": "${25.00}",
+            "types": "/other/number"
+        },
+        {
+            "text": "When I asked the agent to correct the error, she said it was too late and that I should instead amend my XXXX XXXX tax return.",
+            "entity": "2017",
+            "types": "/other/datetime/year"
+        },
+        {
+            "text": "After a week went by and the customers had not received refunds, I started trying to reach XXXX XXXX again ( as well as her manager ).",
+            "entity": "Customer care rep",
+            "types": "/profession/job_title"
+        },
+        {
+            "text": "I later received a call from XXXX XXXX from the underwriting department and she said that they would process the credit card application due to the fact that I do show the ability to pay and that I had been a credit union member for a very long time.",
+            "entity": "Troy Perkins",
+            "types": "/contact/name"
+        },
+        {
+            "text": "As an XXXX XXXX service member, it disgusts me that this bank does not back up its customers and repeatedly gives me the run-a-round when trying to figure out why this claim was rejected.",
+            "entity": "US Army",
+            "types": "/other/organization"
+        },
+        {
+            "text": "Best Buy Credit refuses to submit a removal or resolve the situation with XXXX XXXX.",
+            "entity": "Citibank",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "They made XXXX XXXX withdrawals within a 30 day period, illegal under banking laws for an insurance product.",
+            "entity": "34",
+            "types": "/other/number"
+        },
+        {
+            "text": "Upon being transferred to a XXXX XXXX at Chase Bank Card Services, I was informed that my accounts where closed because I was not using that account as intended.",
+            "entity": "Relationship Manager",
+            "types": "/profession/job_title"
+        },
+        {
+            "text": "I understand that product features are subject to change, however when you remove XXXX XXXX of your most advertised and valuable perks from a credit card with an annual fee, the compensation to the customers needs to be relevant and in line with changes in product.",
+            "entity": "6",
+            "types": "/other/number"
+        },
+        {
+            "text": "Now they are refusing to pay the rebate amount as well as charged me XXXX XXXX interest.",
+            "entity": "3%",
+            "types": "/other/percent /other/number"
+        },
+        {
+            "text": "By me not getting my bills in the mail on a regular basis I have only been able to determine my cycle through what their customer service line supplies me with which is due date of the XXXX XXXX each month.",
+            "entity": "Credit Card",
+            "types": "/interest/product"
+        },
+        {
+            "text": "But despite the confirmation letters, HSBC decides to harass me yet again about the account that I close XXXX XXXX and demand payments.",
+            "entity": "04/28/2014",
+            "types": "/other/datetime/date"
+        },
+        {
+            "text": "Additionally, I do not want to have to dispute the account to all XXXX XXXX credit reporting agencies.",
+            "entity": "4",
+            "types": "/other/number"
+        },
+        {
+            "text": "We believe that Citi Bank should reimburse us most, if not all, of the money that they took from us when we sold our house on XXXX XXXX last year.",
+            "entity": "April 2nd",
+            "types": "/other/datetime/date"
+        },
+        {
+            "text": "I got the letter that bank denied my claim and want me to paid XXXX XXXX dollars plus fees.",
+            "entity": "{$20.00}",
+            "types": "/other/number"
+        },
+        {
+            "text": "I was transferred at least XXXX XXXX times and again left holding the phone for over 10 minutes.",
+            "entity": "4",
+            "types": "/other/number"
+        },
+        {
+            "text": "I have called the bank many times and talked with many bank supervisors and they all say that these XXXX XXXX options are the only ones allowed.",
+            "entity": "6",
+            "types": "/other/number"
+        },
+        {
+            "text": "I fell behind in payments to XXXX XXXX as a result of this and have attempted to work with them to bring the account up to date.",
+            "entity": "Bank of America",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "This was discovered upon writing a check to the dentist for which funds were verified available, but XXXX XXXX had flagged the account.",
+            "entity": "Citibank",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "At the time we provided Wells Fargo a legal opinion from a lawyer and XXXX XXXX written statements from licensed physicians that the original trustee was incompetent.",
+            "entity": "3",
+            "types": "/other/number"
+        },
+        {
+            "text": "That account balance -- last checked : XXXX XXXX -- was almost {$48000.00} and it seems that Wells Fargo only transferred {$50.00} from that long-standing existing account in my name into what is/was supposed to be my new WF checking account and then transferred {$25.00} [ from that same long-standing WF in my name and with my still current/accurate identification information ] to what is supposed to be my new Wells Fargo savings account [ by name/number ].",
+            "entity": "04/02/2016",
+            "types": "/other/datetime/date"
+        },
+        {
+            "text": "After 18 months, XXXX XXXX, I was under the impression that the account was fully paid and therefore, stopped payment.",
+            "entity": "Peter",
+            "types": "/contact/name"
+        },
+        {
+            "text": "However, my bank which sends the payments. through electronic has confirmed XXXX XXXX has been accepting the payments.",
+            "entity": "Geico",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "I also received a statement from them telling me that my balance was XXXX XXXX on that account and they had a deposit of {$930.00} in my account.",
+            "entity": "{$1200.00}",
+            "types": "/other/number"
+        },
+        {
+            "text": "On XXXX XXXX, a payment was sent from my Bank of America account to FIA Card Services to pay off a balance and Fidelity can not find the money.",
+            "entity": "May 30",
+            "types": "/other/datetime/date"
+        },
+        {
+            "text": "However, XXXX XXXX denies receiving such email, and has since ignored my emails.",
+            "entity": "Ram Kumar",
+            "types": "/contact/name"
+        },
+        {
+            "text": "I immediately called XXXX XXXX and was told I was given incorrect information and there was nothing they could do at the time.",
+            "entity": "Customer Support",
+            "types": "/other/organization"
+        },
+        {
+            "text": "Complaint XXXX XXXX : I get different information regarding payment on each call which results in a return payment and fees.",
+            "entity": "2",
+            "types": "/other/number"
+        },
+        {
+            "text": "They re-ordered a {$150.00} charge to the beginning of the month causing my account to overdraft XXXX XXXX times ( {$100.00} ).",
+            "entity": "8",
+            "types": "/other/number"
+        },
+        {
+            "text": "After providing all pertinent details and a copy of my bank statement verifying the disputed charges, I felt like none of that mattered and the dispute was ruled invalid because XXXX XXXX provided a copy of the charge authorization.",
+            "entity": "Citibank",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "The other institution ( XXXX XXXX ) stated that they paid Bank of America andthe backup provide a trace number that Bank of America would be able to track.",
+            "entity": "Lloyds Bank",
+            "types": "/other/organization/company /other/organization"
+        },
+        {
+            "text": "I reported on XXXX XXXX to their fraud dept that I did Not apply for a Walmart credit card.",
+            "entity": "6th April, 2018",
+            "types": "/other/datetime/date"
+        },
+        {
+            "text": "Synchrony Bank has XXXX XXXX of the worst phone IVR systems that forces you to speak instead of inputting number options.",
+            "entity": "one",
+            "types": "/other/number"
+        }
+    ]
+}
